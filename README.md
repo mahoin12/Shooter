@@ -31,7 +31,7 @@ other players, UI shows the ammo of the controlling character.
 ```ruby
 Step 4
 ```
-```
+```ruby
 • Create a dummy stable (non-moving) enemy.
 • The enemy has 100 health points.
 • Implement a health bar above enemies that indicates current health and full health.
