@@ -2,9 +2,25 @@
 
 Developed with Unreal Engine 5
 
+<code style="color : aqua">text</code>
 
-```ruby
-Step 1
+
+### Colors
+
+For your PR's pleasure:
+
+`#3285A8`
+
+
+${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$
+
+${\color{blue}Step 1}$
+
+$${\color{blue}Text}$$
+
+```
+<code style="color : aqua">text</code>
+${\color{blue}Step 1}$
 ```
 ```ruby
 • Create a new project by selecting the "First Person" template project with C++.
